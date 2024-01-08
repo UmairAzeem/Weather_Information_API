@@ -1,0 +1,14 @@
+D:\mv\Test\Weather_Information_API\Weather_Information\DataAccessEF\bin\Debug\net6.0\DataAccessEF.deps.json
+D:\mv\Test\Weather_Information_API\Weather_Information\DataAccessEF\bin\Debug\net6.0\DataAccessEF.runtimeconfig.json
+D:\mv\Test\Weather_Information_API\Weather_Information\DataAccessEF\bin\Debug\net6.0\DataAccessEF.dll
+D:\mv\Test\Weather_Information_API\Weather_Information\DataAccessEF\bin\Debug\net6.0\DataAccessEF.pdb
+D:\mv\Test\Weather_Information_API\Weather_Information\DataAccessEF\obj\Debug\net6.0\DataAccessEF.csproj.AssemblyReference.cache
+D:\mv\Test\Weather_Information_API\Weather_Information\DataAccessEF\obj\Debug\net6.0\DataAccessEF.GeneratedMSBuildEditorConfig.editorconfig
+D:\mv\Test\Weather_Information_API\Weather_Information\DataAccessEF\obj\Debug\net6.0\DataAccessEF.AssemblyInfoInputs.cache
+D:\mv\Test\Weather_Information_API\Weather_Information\DataAccessEF\obj\Debug\net6.0\DataAccessEF.AssemblyInfo.cs
+D:\mv\Test\Weather_Information_API\Weather_Information\DataAccessEF\obj\Debug\net6.0\DataAccessEF.csproj.CoreCompileInputs.cache
+D:\mv\Test\Weather_Information_API\Weather_Information\DataAccessEF\obj\Debug\net6.0\DataAccessEF.dll
+D:\mv\Test\Weather_Information_API\Weather_Information\DataAccessEF\obj\Debug\net6.0\refint\DataAccessEF.dll
+D:\mv\Test\Weather_Information_API\Weather_Information\DataAccessEF\obj\Debug\net6.0\DataAccessEF.pdb
+D:\mv\Test\Weather_Information_API\Weather_Information\DataAccessEF\obj\Debug\net6.0\DataAccessEF.genruntimeconfig.cache
+D:\mv\Test\Weather_Information_API\Weather_Information\DataAccessEF\obj\Debug\net6.0\ref\DataAccessEF.dll

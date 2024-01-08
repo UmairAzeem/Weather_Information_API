@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "OK2rNi9/hED7Q+yt3HR+GUgNHr93J/SSIYtImicSTGqxVzC9BdnP0lTAlfXSPj2wNUKiOY/ORjcwjvqEMpQXkA==",
+  "success": true,
+  "projectFilePath": "D:\\mv\\Test\\Weather_Information_API\\Weather_Information\\PresentationApi\\WeatherApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\test\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\test\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\test\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\test\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\test\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\test\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

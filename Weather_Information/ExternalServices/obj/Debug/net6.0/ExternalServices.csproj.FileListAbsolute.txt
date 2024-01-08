@@ -1,0 +1,12 @@
+D:\mv\Test\Weather_Information_API\Weather_Information\ExternalServices\bin\Debug\net6.0\ExternalServices.deps.json
+D:\mv\Test\Weather_Information_API\Weather_Information\ExternalServices\bin\Debug\net6.0\ExternalServices.dll
+D:\mv\Test\Weather_Information_API\Weather_Information\ExternalServices\bin\Debug\net6.0\ExternalServices.pdb
+D:\mv\Test\Weather_Information_API\Weather_Information\ExternalServices\obj\Debug\net6.0\ExternalServices.csproj.AssemblyReference.cache
+D:\mv\Test\Weather_Information_API\Weather_Information\ExternalServices\obj\Debug\net6.0\ExternalServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\mv\Test\Weather_Information_API\Weather_Information\ExternalServices\obj\Debug\net6.0\ExternalServices.AssemblyInfoInputs.cache
+D:\mv\Test\Weather_Information_API\Weather_Information\ExternalServices\obj\Debug\net6.0\ExternalServices.AssemblyInfo.cs
+D:\mv\Test\Weather_Information_API\Weather_Information\ExternalServices\obj\Debug\net6.0\ExternalServices.csproj.CoreCompileInputs.cache
+D:\mv\Test\Weather_Information_API\Weather_Information\ExternalServices\obj\Debug\net6.0\ExternalServices.dll
+D:\mv\Test\Weather_Information_API\Weather_Information\ExternalServices\obj\Debug\net6.0\refint\ExternalServices.dll
+D:\mv\Test\Weather_Information_API\Weather_Information\ExternalServices\obj\Debug\net6.0\ExternalServices.pdb
+D:\mv\Test\Weather_Information_API\Weather_Information\ExternalServices\obj\Debug\net6.0\ref\ExternalServices.dll

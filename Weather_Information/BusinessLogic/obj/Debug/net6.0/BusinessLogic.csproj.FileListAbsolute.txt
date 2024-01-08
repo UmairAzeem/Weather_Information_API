@@ -1,0 +1,17 @@
+D:\mv\Test\Weather_Information_API\Weather_Information\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+D:\mv\Test\Weather_Information_API\Weather_Information\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+D:\mv\Test\Weather_Information_API\Weather_Information\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+D:\mv\Test\Weather_Information_API\Weather_Information\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\mv\Test\Weather_Information_API\Weather_Information\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\mv\Test\Weather_Information_API\Weather_Information\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\mv\Test\Weather_Information_API\Weather_Information\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+D:\mv\Test\Weather_Information_API\Weather_Information\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\mv\Test\Weather_Information_API\Weather_Information\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+D:\mv\Test\Weather_Information_API\Weather_Information\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+D:\mv\Test\Weather_Information_API\Weather_Information\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+D:\mv\Test\Weather_Information_API\Weather_Information\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+D:\mv\Test\Weather_Information_API\Weather_Information\BusinessLogic\bin\Debug\net6.0\DataAccessEF.dll
+D:\mv\Test\Weather_Information_API\Weather_Information\BusinessLogic\bin\Debug\net6.0\ExternalServices.dll
+D:\mv\Test\Weather_Information_API\Weather_Information\BusinessLogic\bin\Debug\net6.0\DataAccessEF.pdb
+D:\mv\Test\Weather_Information_API\Weather_Information\BusinessLogic\bin\Debug\net6.0\ExternalServices.pdb
+D:\mv\Test\Weather_Information_API\Weather_Information\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
